@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01",
+    "provinces": ["04", "11", "14", "18", "21", "23", "29", "41"],
+    "name": "Andalucía"
+  },
+  { "id": "02", "provinces": ["22", "44", "50"], "name": "Aragón" },
+  { "id": "03", "provinces": ["33"], "name": "Asturias, Principado de" },
+  { "id": "04", "provinces": ["07"], "name": "Balears, Illes" },
+  { "id": "05", "provinces": ["35", "38"], "name": "Canarias" },
+  { "id": "06", "provinces": ["39"], "name": "Cantabria" },
+  {
+    "id": "07",
+    "provinces": ["05", "09", "24", "34", "37", "40", "47", "49"],
+    "name": "Castilla y León"
+  },
+  {
+    "id": "08",
+    "provinces": ["02", "13", "16", "19", "45"],
+    "name": "Castilla - La Mancha"
+  },
+  { "id": "09", "provinces": ["08", "17", "25", "43"], "name": "Cataluña" },
+  {
+    "id": "10",
+    "provinces": ["03", "12", "46"],
+    "name": "Comunitat Valenciana"
+  },
+  { "id": "11", "provinces": ["06", "10", "42"], "name": "Extremadura" },
+  { "id": "12", "provinces": ["15", "27", "32", "36"], "name": "Galicia" },
+  { "id": "13", "provinces": ["28"], "name": "Madrid, Comunidad de" },
+  { "id": "14", "provinces": ["30"], "name": "Murcia, Región de" },
+  { "id": "15", "provinces": ["31"], "name": "Navarra, Comunidad Foral de" },
+  { "id": "16", "provinces": ["01", "48", "20"], "name": "País Vasco" },
+  { "id": "17", "provinces": ["26"], "name": "Rioja, La" },
+  { "id": "18", "provinces": ["51"], "name": "Ceuta" },
+  { "id": "19", "provinces": ["52"], "name": "Melilla" }
+]
